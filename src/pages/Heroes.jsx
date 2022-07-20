@@ -45,7 +45,7 @@ const Container = styled.div`
 `
 
 export const Heroes = () => {
-  const baseURL = 'http://gateway.marvel.com/v1/public/characters?'
+  const baseURL = 'https://gateway.marvel.com/v1/public/characters?'
   const publicKey = '38267605957928ce8c7aa2296bb1a75c'
   const privateKey = 'b060cbafce86416f2a50c0fdc68b8b637f4f6e72'
   const time = Number(new Date())
