@@ -113,7 +113,7 @@ export const Details = () => {
                   {heroe.series.available} séries
                 </span>
 
-                <Link to={`/heroes`}>
+                <Link to={`/api-marvel`}>
                   <button>Voltar</button>
                 </Link>
                 <button>Adicionar aos favoritos</button>

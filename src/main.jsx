@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
     <Navbar />
     <Routes>
-      <Route path="heroes" index element={<Heroes />} />
+      <Route path="api-marvel" index element={<Heroes />} />
       <Route path="heroes/details/:id" element={<Details />} />
     </Routes>
   </BrowserRouter>
