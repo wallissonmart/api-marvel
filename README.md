@@ -17,7 +17,7 @@
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
 Para acessar a aplicação bastar clicar no seguinte link: https://wallissonmart.github.io/api-marvel
-
+<br>
 Para rodar em sua máquina, siga os seguintes passos:
 - git clone https://github.com/wallissonmart/api-marvel.git
 - npm install
