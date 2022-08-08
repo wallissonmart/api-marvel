@@ -27,7 +27,6 @@ export const Navbar = () => {
       <div>
         <NavBarImg alt="marvel-logo" src={logoImg} />
       </div>
-      <HeroisFav>Heróis favoritos</HeroisFav>
     </Nav>
   )
 }
